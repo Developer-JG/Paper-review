@@ -38,8 +38,6 @@ First week of October 2023
 **Copyright and Source Disclaimer:**  
 The papers provided on this page are translations of the original content. The copyright of the original papers may belong to the respective original authors and publishing journals. The accessibility of these papers in translated form is at the discretion of the translator while adhering to the original copyright policies. For more detailed information about the source and copyrights of the original papers, please refer to the respective original papers. The accuracy, completeness, and reliability of the translated content are not guaranteed.  
 
-</br>
-
 <div align="right">
   
 #### Contact : h5638880@gachon.ac.kr
