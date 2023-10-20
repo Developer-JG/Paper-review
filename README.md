@@ -42,6 +42,6 @@ The papers provided on this page are translations of the original content. The c
 
 <div align="right">
   
-## Contact : h5638880@gachon.ac.kr
+#### Contact : h5638880@gachon.ac.kr
 
 </div>
