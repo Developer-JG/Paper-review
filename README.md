@@ -20,6 +20,7 @@ First week of September 2023
    Publisher: Nature Publishing Group (NPG)  
    DOI: https://doi.org/10.1038/s41598-023-29281-w   
 
+</br>
 First week of October 2023
 
 2. (eng) Innovative Approaches for RG 3D NAND CMP Buff Steps Elimination with Fab Cost and Carbon Footprint Reduction  
